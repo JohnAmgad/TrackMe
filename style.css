@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #1f5286;
+}
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #1f5286;
+}
+h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #1f5286;
+}
+h3 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #1f5286;
+}
+p{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1f5286;
+}
